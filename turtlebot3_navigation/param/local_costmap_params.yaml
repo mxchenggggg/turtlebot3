@@ -1,5 +1,6 @@
 local_costmap:
   # global_frame: odom
+  # plugins: []
   global_frame: map
   robot_base_frame: base_footprint
 
